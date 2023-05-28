@@ -13,8 +13,8 @@ CVZone library(`pip install cvzone`)
 ## Customization
 You can customize the code to suit your specific needs. Here are a few potential modifications:
 
-*Adjust the camera calibration parameters for accurate focal length estimation.
-*Modify the focal length value as per your camera to increase the accuracy of the readings.
+* Adjust the camera calibration parameters for accurate focal length estimation.
+* Modify the focal length value as per your camera to increase the accuracy of the readings.
 
 ## Acknowledgments
 This project is built upon the foundations of the OpenCV, MediaPipe and CVZone libraries. Special thanks to the developers and contributors of these amazing tools.
